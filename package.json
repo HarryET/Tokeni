@@ -1,0 +1,27 @@
+{
+  "name": "tokeni",
+  "version": "1.0.1",
+  "description": "Tiny Web Tokens For Everyone!",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryET/Tokeni.git"
+  },
+  "keywords": [
+    "token",
+    "web",
+    "security"
+  ],
+  "author": "HarryET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryET/Tokeni/issues"
+  },
+  "homepage": "https://github.com/HarryET/Tokeni#readme",
+  "devDependencies": {
+    "@types/node": "^14.6.4"
+  }
+}
