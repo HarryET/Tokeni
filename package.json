@@ -1,6 +1,6 @@
 {
   "name": "tokeni",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Tiny Web Tokens For Everyone!",
   "main": "./dist/index.js",
   "scripts": {
